@@ -1,6 +1,6 @@
 {
   "name": "@mosmartin/nutrition",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Typescript package for Node Projects",
   "main": "./dist/index",
   "scripts": {
