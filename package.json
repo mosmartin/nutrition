@@ -1,5 +1,5 @@
 {
-  "name": "nutrition",
+  "name": "@mosmartin/nutrition",
   "version": "1.0.0",
   "description": "A Typescript package for Node Projects",
   "main": "./dist/index",
